@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chetan0711  
+- 👀 I’m interested in Data Science, AI, and Predictive Analytics  
+- 🌱 I’m currently learning Tableau, Power BI, and Salesforce Trailhead  
+- 💞️ I’m looking to collaborate on Data Science and Visualization projects   
+- ⚡ Fun fact: I love exploring new tech and hitting the gym daily!  
