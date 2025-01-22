@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan0711  
+- 👋 Hi, I’m Chaitnya
 - 👀 I’m interested in Data Science, AI, and Predictive Analytics  
 - 🌱 I’m currently learning Tableau, Power BI, and Salesforce Trailhead  
 - 💞️ I’m looking to collaborate on Data Science and Visualization projects   
